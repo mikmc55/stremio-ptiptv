@@ -30,7 +30,7 @@ const search_cache = {
 const manifest = {
 	id: "community.iptvOrg",
 	version: package.version,
-	logo: "https://i.ibb.co/FgRqP6w/10a8e00f-0fce-447b-9e2d-b552f921ff66-200x200.png",
+	logo: "https://raw.githubusercontent.com/mikmc55/stremio-ptiptv/master/h_y-high-resolution-logo-transparent.png",
 	catalogs: [{type:'tv',id:'IPTVorg',name:'IPTVorg',extra: [
 		{
 		  name: "genre",
