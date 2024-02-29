@@ -51,7 +51,7 @@ const manifest = {
 	resources: ["catalog", "meta", "stream"],
 	types: ['tv'],
 	name: "IPTVorg",
-	description: "Collection of 8000+ publicly available IPTV channels from all over the world.",
+	description: "Collection of 8000+ publicly available IPTV channels.",
 	idPrefixes: ['iptvorg']
 }
 function match(r,s,i){
