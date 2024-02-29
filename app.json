@@ -2,6 +2,6 @@
   "name": "Stremio IPTVorg List",
   "description": "Collection of 8000+ publicly available IPTV channels from all over the world.",
   "repository": "https://github.com/jlvcm/stremio-ptiptv",
-  "logo": "https://github.com/jlvcm/stremio-ptiptv",
+  "logo": "https://raw.githubusercontent.com/mikmc55/stremio-ptiptv/master/h_y-high-resolution-logo-transparent.png",
   "keywords": ["node", "stremio", "ptiptv","iptvorg","joaolvcm"]
 }
