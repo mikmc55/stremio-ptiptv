@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Collection of 8000+ publicly available IPTV channels.",
 	"engines": {
-		"node": "12.x"
+		"node": "18.x"
 	},
 	"scripts": {
 		"start": "node server.js"
