@@ -12,7 +12,7 @@ try {
 
 // Mapping of countries to their identifiers
 const countries = {
-	'International': 'int',
+	'Palestine': 'ps',
 	'Unsorted': 'unsorted',
 	'Afghanistan': 'af',
 	'Albania': 'al',
